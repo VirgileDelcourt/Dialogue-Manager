@@ -12,3 +12,4 @@ Gardez bien en tête que tout les dialogues sont stockés dans "DIALOGUEdb.db" e
 et "feNG" == "Front End Newest Game".
 ###
 Je suis sincérement désolé du manque de commentaires, et j'espere que mon code est assez compréhensible comme cela.
+Je vous prie aussi de ne pas vous attarder sur les dialogues déja créés et de plutot tenter de créer les votres. 
